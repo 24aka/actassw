@@ -20,7 +20,7 @@ export const translations = {
     tabDashboard: "Tablero Principal",
     tabPlayers: "Fichas de Jugadores",
     tabMatches: "Lista de Partidos",
-    tabFullTable: "Tabla Completa",
+    tabFullTable: "Modo Tabla",
 
     // Themes
     themeLight: "Modo Claro",
@@ -134,7 +134,7 @@ export const translations = {
     tabDashboard: "Dashboard",
     tabPlayers: "Players Stats",
     tabMatches: "Matches List",
-    tabFullTable: "Full Registry",
+    tabFullTable: "Table Mode",
 
     // Themes
     themeLight: "Light Mode",

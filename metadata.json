@@ -1,0 +1,8 @@
+{
+  "name": "Romo F.C. Analytics Dashboard",
+  "description": "Un panel visual interactivo y moderno estilo SaaS para consultar, filtrar y analizar las estadísticas de los jugadores de Romo F.C. a partir de una hoja de cálculo en tiempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
